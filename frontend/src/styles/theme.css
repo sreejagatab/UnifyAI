@@ -1,0 +1,23 @@
+/* theme.css */
+:root {
+    --primary-color: #007bff;
+    --secondary-color: #6c757d;
+    --background-color: #f9f9f9;
+    --text-color: #333;
+  }
+  
+  body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+  }
+  
+  .button-primary {
+    background-color: var(--primary-color);
+    color: #fff;
+  }
+  
+  .button-secondary {
+    background-color: var(--secondary-color);
+    color: #fff;
+  }
+  
